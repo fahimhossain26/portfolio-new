@@ -69,7 +69,7 @@ const Banner = () => {
     </ReactTyped> */}
       
       <p className="py-6 max-w-xl">As a Full-Stack developer, I enjoy tackling new challenges and continuously expanding my skillset.</p>
-      <Link to='https://drive.google.com/file/d/17DyjID8VMUQ6QJaXdfFk4J7Ux3vMKbCp/view?usp=sharing'><button  className="btn btn-primary">Download CV</button></Link>
+      <Link to='https://drive.google.com/file/d/1IzzR1mZypAedJTh2SSP8nLomSaOuI15G/view?usp=drive_link'><button  className="btn btn-primary">Download CV</button></Link>
     </div>
 
     <img src={imgs} className="  rounded-lg shadow-4xl mt-20  max-w-6xl max-h-2xl"  />
